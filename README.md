@@ -11,7 +11,7 @@ A brief introduction about yourself.
 
 ## Languages & Tools
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" title="Java" />
