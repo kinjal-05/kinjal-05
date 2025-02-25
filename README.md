@@ -21,11 +21,12 @@ A brief introduction about yourself.
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinjal-05&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinjal-05&layout=compact&theme=radical)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=kinjal-05&theme=monokai&hide_border=false)<br/>
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/kinjal_05)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kinjal_05)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/kinjal_05)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kinjal_05)
+[![Coding Ninjas](https://img.shields.io/badge/-Coding%20Ninjas-DD6620?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/kinjal_05)
+[![AtCoder](https://img.shields.io/badge/-AtCoder-1F8ACB?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/kinjal_05)
 
 
 ## Connect with me:
