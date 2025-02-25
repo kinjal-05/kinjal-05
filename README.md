@@ -1,4 +1,4 @@
-# Hi there, I'm Kinjal Mistry 👋
+# I'm Kinjal Mistry 👋
 
 
 ## About Me
@@ -28,9 +28,9 @@ A brief introduction about yourself.
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-username)
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinjal-05&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinjal-05&layout=compact&theme=radical)
 
 ## Connect with me:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
