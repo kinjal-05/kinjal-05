@@ -1,59 +1,38 @@
-# ✨ Hi, I'm Kinjal Mistry! ✨
+# Hi 👋, I'm Udit Mehta
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=kinjal-05&label=Profile%20Views&color=blue&style=flat)](https://github.com/kinjal-05)
+A passionate Competitive Programmer from India
 
-### 🙋‍♀️ About Me
+- 💬 Ask me about Competitive programming
+- 📫 How to reach me: [uditmehta100@gmail.com](mailto:uditmehta100@gmail.com)
 
-I'm a software developer passionate about building scalable and user-friendly applications. I have experience in full-stack development, with a focus on creating efficient and maintainable code. Outside of coding, I enjoy hiking, photography, and exploring new technologies.
+## Connect with me:
 
-### 🛠️ Technologies & Skills
+-   [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+-   [Twitter](https://twitter.com/your-twitter-handle)
+-   [Portfolio](https://your-portfolio-url.com)
+-   [LeetCode](https://leetcode.com/your-leetcode-profile)
+-   [CodeChef](https://www.codechef.com/users/your-codechef-username)
 
-#### 💻 Languages:
+## 💻 Tech Stack:
 
--   <img src="https://img.icons8.com/color/30/000000/python--v1.png"> [Python](https://www.python.org/)
--   <img src="https://img.icons8.com/color/30/000000/javascript.png"> [JavaScript](https://www.javascript.com/)
--   <img src="https://img.icons8.com/color/30/000000/html-5--v1.png"> [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
--   <img src="https://img.icons8.com/color/30/000000/css3.png"> [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-#### 🌐 Frameworks:
-
--   <img src="https://img.icons8.com/color/30/000000/react-native.png"> [React](https://react.dev/)
+-   <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo.png"> [Java](https://www.java.com/en/download/help/whatis_java.html)
+-   <img src="https://img.icons8.com/color/30/000000/spring-logo.png"> [Spring Boot](https://spring.io/projects/spring-boot)
 -   <img src="https://img.icons8.com/color/30/000000/nodejs.png"> [Node.js](https://nodejs.org/en/docs/)
+-   <img src="https://img.icons8.com/color/30/000000/react-native.png"> [React](https://react.dev/)
+-   <img src="https://img.icons8.com/color/30/000000/redux.png"> [Redux](https://redux.js.org/)
+-   <img src="https://img.icons8.com/color/30/000000/express.png"> [Express.js](https://expressjs.com/)
+-   <img src="https://img.icons8.com/color/30/000000/python--v1.png"> [Python](https://www.python.org/)
+-   <img src="https://img.icons8.com/color/30/000000/c++.png"> [C++](https://isocpp.org/)
+-   <img src="https://img.icons8.com/color/30/000000/javascript.png"> [JavaScript](https://www.javascript.com/)
+-   <img src="https://img.icons8.com/color/30/000000/typescript.png"> [TypeScript](https://www.typescriptlang.org/)
+-   <img src="https://img.icons8.com/color/30/000000/postman.png"> [Postman](https://www.postman.com/)
+-   <img src="https://img.icons8.com/color/30/000000/tailwindcss.png"> [Tailwind CSS](https://tailwindcss.com/)
+-   <img src="https://img.icons8.com/color/30/000000/mongodb.png"> [MongoDB](https://www.mongodb.com/)
+-   <img src="https://img.icons8.com/color/30/000000/django.png"> [Django](https://www.djangoproject.com/)
+-   <img src="https://img.icons8.com/color/30/000000/mysql-logo.png"> [MySQL](https://www.mysql.com/)
 
-#### 🧰 Tools:
+## 📊 GitHub Stats
 
--   <img src="https://img.icons8.com/color/30/000000/git.png"> [Git](https://git-scm.com/docs)
--   <img src="https://img.icons8.com/color/30/000000/docker.png"> [Docker](https://docs.docker.com/)
--   <img src="https://img.icons8.com/color/30/000000/visual-studio-code-2019.png"> [VS Code](https://code.visualstudio.com/docs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
 
-#### ☁️ Cloud:
-
--   <img src="https://img.icons8.com/color/30/000000/amazon-web-services.png"> [AWS](https://docs.aws.amazon.com/)
--   <img src="https://img.icons8.com/color/30/000000/azure.png"> [Azure](https://learn.microsoft.com/en-us/azure/)
-
-### 📊 Coding Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinjal-05&layout=compact&theme=dracula)](https://github.com/kinjal-05)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinjal-05&show_icons=true&theme=dracula)](https://github.com/kinjal-05)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kinjal-05&theme=dracula)](https://github.com/kinjal-05)
-
-### Projects
-
-#### Project 1: Awesome Project
-
-*   **Description**: A brief description of the project.
-*   **Tech Stack**: React, Node.js, Express
-*   [Link to Repository](https://github.com/kinjal-05/awesome-project)
-
-#### Project 2: Another Great Project
-
-*   **Description**: Another brief description of the project.
-*   **Tech Stack**: Python, Django, PostgreSQL
-*   [Link to Repository](https://github.com/kinjal-05/another-great-project)
-
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)
