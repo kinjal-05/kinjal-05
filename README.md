@@ -83,26 +83,18 @@ A brief introduction about yourself.
 ## Competitive Programming Platforms
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/kinjal_05)
-
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kinjal_05)
-
-## GitHub Stats
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/kinjal_05)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kinjal_05)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/kinjal_05)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kinjal_05)
-[![Coding Ninjas](https://img.shields.io/badge/-Coding%20Ninjas-DD6620?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/kinjal_05)
+[![Coding Ninjas](https://img.shields.io/badge/-Coding%20Ninjas-FF7522?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/codestudio/profile/kinjal_05) 
 [![AtCoder](https://img.shields.io/badge/-AtCoder-1F8ACB?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/kinjal_05)
 
 
 ## Connect with me:
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kinjal-05)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-username)
 
-## Acknowledgements
-Special thanks to everyone who has helped me along the way.
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kinjal-05&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
