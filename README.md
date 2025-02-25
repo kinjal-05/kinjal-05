@@ -2,7 +2,7 @@
 
 
 ## About Me
-A brief introduction about yourself.
+A brief introduction about myself.
 
 
 - 👯 I’m looking to collaborate on open source projects
@@ -92,8 +92,8 @@ A brief introduction about yourself.
 
 ## Connect with me:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kinjal-05)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinjal05?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 
 ## 🔝 Top Contributed Repo
