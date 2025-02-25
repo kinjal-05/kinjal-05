@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kinjal Mistry 👋
 
-<!--
-**kinjal-05/kinjal-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+-   GitHub Username: kinjal-05
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositories
+
+Here's a list of some of my public repositories:
+
+-   [HumanFace\_Detection](https://github.com/kinjal-05/HumanFace_Detection) - Jupyter Notebook
+-   [AdhaarCard\_Detection](https://github.com/kinjal-05/AdhaarCard_Detection) - JavaScript
+-   [Notes\_App](https://github.com/kinjal-05/Notes_App) - JavaScript
+-   [Library\_Management\_System](Your_Repo_Link_Here)
+
+## Contact
+
+-   [Edit profile](Your_Profile_Link_Here)
+
+## Last Updated
+
+-   Updated now
