@@ -1,15 +1,13 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kinjal Mistry 👋
 
-![GitHub Profile Header](URL to your header image)
 
 ## About Me
 A brief introduction about yourself.
 
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning NextJS and GitHub API integration
+
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development and competitive programming
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- 📫 How to reach me: kinjalmistry125@gmmail.com
 
 ## Languages & Tools
 
