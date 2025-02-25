@@ -29,19 +29,4 @@
 -   [<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" align="center"> Notes\_App](https://github.com/kinjal-05/Notes_App) - Simple note-taking application.
 -   [Library\_Management\_System](Your\_Repo\_Link\_Here) - (Add a description here)
 
-## 🔗 Coding Platforms
 
--   [LeetCode](Your\_LeetCode\_Profile\_Link)
--   [HackerRank](Your\_HackerRank\_Profile\_Link)
--   [CodeChef](Your\_CodeChef\_Profile\_Link)
--   [Codeforces](Your\_Codeforces\_Profile\_Link)
-
-## 🤝 Let's Connect!
-
--   [LinkedIn](Your\_LinkedIn\_Profile\_Link)
--   [Twitter](Your\_Twitter\_Profile\_Link)
--   [Edit profile](Your\_GitHub\_Profile\_Link)
-
-## 📅 Last Updated
-
--   Updated dynamically (GitHub Actions can automate this)
