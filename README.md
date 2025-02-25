@@ -22,7 +22,9 @@ A brief introduction about yourself.
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kinjal-05&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinjal-05&layout=compact&theme=radical
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinjal-05&layout=compact&theme=radical)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kinjal-05&theme=monokai&hide_border=false)<br/>
 
 
