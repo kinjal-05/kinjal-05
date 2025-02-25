@@ -16,7 +16,7 @@ A brief introduction about yourself.
 ## Competitive Programming Platforms
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/kinjal_05)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kinjal_05)
+
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kinjal_05)
 
 ## GitHub Stats
@@ -35,3 +35,6 @@ A brief introduction about yourself.
 
 ## Acknowledgements
 Special thanks to everyone who has helped me along the way.
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kinjal-05&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
