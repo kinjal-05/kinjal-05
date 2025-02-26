@@ -7,7 +7,7 @@ A brief introduction about myself.
 
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about web development and competitive programming
-- 📫 How to reach me: kinjalmistry125@gmmail.com
+- 📫 How to reach me: kinjalmistry125@gmail.com
 
 ## Languages & Tools
 
